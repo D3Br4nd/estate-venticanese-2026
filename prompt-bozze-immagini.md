@@ -2,12 +2,14 @@
 
 Prompt da usare con ChatGPT Immagini per esplorare direzioni visive e layout. In questa fase non inserire testi reali: usare placeholder leggibili e blocchi fittizi. Lasciare sempre spazio superiore e inferiore per loghi istituzionali, QR code, sito web, sponsor e informazioni pratiche.
 
+Slogan provvisorio da usare nelle bozze quando serve un elemento reale: `ViviAMO Venticano`.
+
 ## Regole comuni
 
 Da aggiungere o adattare in ogni prompt:
 
 ```text
-Usa solo testo placeholder, non testo reale. Mantieni il layout molto leggibile, ordinato e non troppo d'impatto. Lascia una fascia superiore pulita per loghi istituzionali e titolo, e una fascia inferiore pulita per loghi, QR code, sito web, sponsor e informazioni. Il contenuto centrale deve sembrare un programma eventi fitto ma ben organizzato, con date, orari e luoghi simulati. Stile editoriale illustrato, istituzionale, estivo, sobrio, con griglia chiara e molto spazio bianco. Puoi usare una grande illustrazione decorativa laterale o agli angoli, ma non deve stare sotto al testo. Evita sfondi fotografici complessi dietro il testo. Non deformare i placeholder e non generare loghi reali.
+Usa testo placeholder per il programma, senza testi reali degli eventi. Puoi usare lo slogan provvisorio "ViviAMO Venticano" come elemento di test nella testata. Mantieni il layout molto leggibile, ordinato e non troppo d'impatto. Lascia una fascia superiore pulita per loghi istituzionali e titolo, e una fascia inferiore pulita per loghi, QR code, sito web, sponsor e informazioni. Il contenuto centrale deve sembrare un programma eventi fitto ma ben organizzato, con date, orari e luoghi simulati. Stile editoriale illustrato, istituzionale, estivo, sobrio, con griglia chiara e molto spazio bianco. Puoi usare una grande illustrazione decorativa laterale o agli angoli, ma non deve stare sotto al testo. Evita sfondi fotografici complessi dietro il testo. Non deformare i placeholder e non generare loghi reali.
 ```
 
 ## Riferimento di stile da esplorare

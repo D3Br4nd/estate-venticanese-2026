@@ -4,6 +4,8 @@ Repository di lavoro per le grafiche dell'Estate Venticanese 2026 del Comune di 
 
 La fonte eventi attuale e' il file [`lista-eventi/ESTATE 2026.xlsx`](lista-eventi/ESTATE%202026.xlsx). La lista e' da considerare provvisoria: alcuni campi sono incompleti o da confermare, quindi ogni output grafico deve essere trattato come bozza finche' non arriva una validazione finale.
 
+Slogan provvisorio: `ViviAMO Venticano`.
+
 ## Obiettivo
 
 Creare un sistema coordinato di materiali per comunicare il programma estivo 2026, con una linea grafica unica ma adattabile a:
@@ -130,6 +132,7 @@ Da decidere se includere anche altri eventi in Cavea non strettamente teatrali, 
 
 - Programma definitivo e autorizzazione alla pubblicazione.
 - Titolo ufficiale della rassegna: `Estate Venticanese 2026`, `Estate a Venticano 2026` o altro.
+- Slogan provvisorio da confermare: `ViviAMO Venticano`.
 - Loghi istituzionali da usare e ordine corretto.
 - Eventuali sponsor e patrocini.
 - Contatti pubblici da inserire nei materiali.
