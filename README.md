@@ -175,6 +175,54 @@ Da decidere se includere anche altri eventi in Cavea non strettamente teatrali, 
 - Per brochure 6/8 pagine decidere prima la struttura: copertina, calendario, focus eventi principali, teatro/festival, mappa/luoghi, partner.
 - Per social definire template riutilizzabili: copertina carosello, slide data/evento, post singolo, chiusura con loghi.
 
+## Direzione grafica iniziale
+
+La comunicazione dovra' gestire molti dati. La priorita' e' la leggibilita': date, orari, luoghi, organizzatori e loghi istituzionali devono restare chiari anche quando il formato e' affollato.
+
+Principi guida:
+
+- Impatto controllato: evitare grafiche troppo rumorose, texture invadenti o sfondi fotografici complessi sotto il programma.
+- Struttura editoriale: trattare il programma come un calendario/manifesto informativo, non come una singola locandina evento.
+- Gerarchia forte ma sobria: titolo riconoscibile, mesi ben separati, date molto leggibili, nomi evento in evidenza, dettagli in secondo livello.
+- Griglia rigorosa: colonne e moduli ripetibili per non far sembrare il contenuto disordinato.
+- Loghi protetti: fascia istituzionale pulita, con spazio bianco sufficiente e senza elementi decorativi dietro.
+- Colore funzionale: usare pochi colori principali e assegnare eventuali accenti a categorie, mesi o sezioni.
+- Decorazione leggera: elementi grafici ispirati all'estate, al paese o ai luoghi, ma usati come cornice o accento, non come sfondo dominante.
+
+Possibile approccio visivo:
+
+- Fondo chiaro o molto neutro per i materiali piu' fitti.
+- Titoli con un carattere display riconoscibile ma leggibile.
+- Testi programma con un sans serif pulito, condensato solo se resta leggibile.
+- Divisione per mesi: luglio, agosto, settembre.
+- Evidenziazione degli eventi principali con piccoli marker, icone o campiture leggere.
+- Area loghi sempre separata dal contenuto, idealmente in basso o in alto su fascia bianca.
+
+Layout consigliato per la locandina 100 x 70:
+
+- Testata: titolo rassegna, anno, eventuale payoff breve.
+- Corpo centrale: calendario a tre blocchi mensili, con righe evento compatte.
+- Laterale o piede: luoghi principali, info generali, QR code se disponibile.
+- Fascia istituzionale: Comune, sponsor, patrocini e partner.
+
+Layout consigliato per A3:
+
+- Versione generale semplificata, con programma organizzato per mese.
+- Eventuali A3 mensili se il calendario completo risulta troppo fitto.
+- Variante dedicata agli eventi teatrali/spettacoli.
+
+Layout consigliato per brochure:
+
+- 6 pagine: copertina, luglio, agosto, settembre, focus teatro/eventi principali, info/loghi.
+- 8 pagine: copertina, intro, luglio, agosto prima parte, agosto seconda parte, settembre, teatro/focus, info/loghi.
+
+Layout consigliato per social:
+
+- Post singolo: un solo evento o un piccolo gruppo di eventi, con data molto grande.
+- Carosello generale: copertina, slide per mese, slide teatro/festival, chiusura con info e loghi.
+- Carosello mensile: copertina mese, 2-4 slide programma, chiusura.
+- Evitare slide con troppo testo: meglio spezzare il calendario in piu' schermate.
+
 ## Prossimi passi
 
 1. Pulire e validare il file eventi.
@@ -183,3 +231,7 @@ Da decidere se includere anche altri eventi in Cavea non strettamente teatrali, 
 4. Preparare una prima bozza della locandina 100 x 70 cm.
 5. Derivare A3, brochure generale e primi template social.
 6. Separare e sviluppare la linea dedicata agli eventi teatrali.
+
+## File di lavoro
+
+- [`prompt-bozze-immagini.md`](prompt-bozze-immagini.md): prompt pronti per generare bozze visuali con ChatGPT Immagini.
