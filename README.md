@@ -198,6 +198,32 @@ Possibile approccio visivo:
 - Evidenziazione degli eventi principali con piccoli marker, icone o campiture leggere.
 - Area loghi sempre separata dal contenuto, idealmente in basso o in alto su fascia bianca.
 
+## Sistema di simboli
+
+Il programma contiene eventi molto diversi: cibo, musica, teatro, giochi, sport, ambiente, bambini, feste religiose e momenti culturali. Per tenere insieme tutto senza appesantire il calendario, conviene creare un piccolo sistema di simboli ricorrenti.
+
+I simboli non devono sostituire il testo: servono come accenti visivi, marker di categoria e decorazioni leggere che "rincorrono" i temi dell'estate.
+
+Categorie possibili:
+
+- Musica e spettacolo: note musicali, microfono, sax, tamburo, luci palco.
+- Teatro e cinema: maschere teatrali, sipario, sedia da regista, pellicola, faro.
+- Cibo e sagre: forchetta, bicchiere, brace, piatto, spiga, limone, pomodoro.
+- Giochi e bambini: palloncino, aquilone, stelle, cubi, giostra, gonfiabile stilizzato.
+- Sport e tornei: pallone, rete, carte da gioco, bocce, coppa.
+- Cultura e libri: libro aperto, penna, pagina, segnalibro.
+- Ambiente e territorio: foglia, albero, sole, acqua, collina, sentiero.
+- Festa di paese: festoni, luminarie, coriandoli, stelle, piazza, campanile stilizzato.
+- Luoghi: Cavea, Piazza Monumento, Castello, Ponterotto e Passo possono avere piccoli segni ricorrenti se si decide una mappa visiva.
+
+Uso consigliato:
+
+- 1 simbolo piccolo per riga evento, solo se non disturba la lettura.
+- Simboli piu' grandi solo come illustrazione laterale o cornice.
+- Stesso stile per tutti: tratto illustrato, leggero, coerente con la locandina.
+- Evitare icone troppo digitali o set generici da app.
+- Evitare troppi simboli diversi nella stessa pagina: meglio 6/8 categorie riconoscibili.
+
 Layout consigliato per la locandina 100 x 70:
 
 - Testata: titolo rassegna, anno, eventuale payoff breve.

@@ -17,6 +17,7 @@ L'esempio trovato sui social suggerisce una direzione piu' adatta:
 - grande titolo tipografico nella parte alta/sinistra;
 - programma fitto disposto in 2/3 colonne;
 - illustrazione estiva importante su un lato, non dietro al testo;
+- piccoli simboli ricorrenti che rappresentano cibo, musica, teatro, giochi, cinema, sport, cultura e ambiente;
 - piccoli elementi decorativi negli angoli;
 - fondo bianco o molto chiaro;
 - tono popolare, festoso e istituzionale allo stesso tempo;
@@ -46,7 +47,8 @@ Composizione:
 Illustrazione:
 - stile acquerello digitale o matita colorata raffinata;
 - tema estate di paese: musica, teatro, piazza, luci, festa, sole, piante mediterranee;
-- elementi possibili: strumenti musicali, palco, festoni, stelle, foglie, piccoli simboli di piazza;
+- elementi possibili: strumenti musicali, palco, maschere teatrali, pellicola cinema, piatti e bicchieri, carte da gioco, pallone, bocce, libri, festoni, stelle, foglie, piccoli simboli di piazza;
+- i simboli devono sembrare un sistema coerente che attraversa tutta la grafica, non elementi casuali;
 - non mettere illustrazioni sotto il testo del calendario.
 
 Stile:
@@ -100,6 +102,7 @@ Composizione:
 - titolo placeholder grande, chiaro, con personalita';
 - calendario centrale diviso per mesi, con righe compatte e leggibili;
 - piccoli marker o icone minimali per distinguere teatro, bambini, sport, sagre, ambiente;
+- aggiungi un sistema coerente di piccoli simboli illustrati per cibo, musica, teatro, giochi, cinema, sport, cultura e ambiente;
 - margine basso riservato a QR code, sito web e loghi sponsor.
 - illustrazione verticale laterale o cornice illustrata leggera, senza invadere la zona del testo.
 
