@@ -1,0 +1,910 @@
+/* ==========================================================================
+   DESIGN SYSTEM & VARIABLES
+   ========================================================================== */
+:root {
+    /* UI Palette (Control Panel) */
+    --ui-bg: rgba(22, 28, 45, 0.95);
+    --ui-border: rgba(255, 255, 255, 0.08);
+    --ui-text: #e2e8f0;
+    --ui-text-muted: #94a3b8;
+    --ui-accent: #38bdf8;
+    --ui-accent-hover: #0ea5e9;
+    --ui-input-bg: rgba(15, 23, 42, 0.6);
+    --ui-input-border: rgba(255, 255, 255, 0.15);
+    
+    /* Layout Variables */
+    --panel-width: 420px;
+    --transition-speed: 0.25s;
+
+    /* Theme Presets (Overridden by theme classes) */
+    /* DEFAULT: TERRACOTTA */
+    --theme-bg: #FDFBF7;
+    --theme-border: #D8D2C4;
+    --theme-accent: #C85C40; /* Terracotta */
+    --theme-accent-rgb: 200, 92, 64;
+    --theme-text-primary: #1C2E3D; /* Deep Charcoal Blue */
+    --theme-text-secondary: #5A6D7E;
+    --theme-ornament: #EAD8C3;
+    --theme-shadow: rgba(0, 0, 0, 0.04);
+}
+
+/* Theme Presets Styling */
+.poster-page.midnight {
+    --theme-bg: #0B132B; /* Dark navy */
+    --theme-border: rgba(224, 169, 109, 0.25);
+    --theme-accent: #E0A96D; /* Rich Gold/Amber */
+    --theme-accent-rgb: 224, 169, 109;
+    --theme-text-primary: #FFFFFF;
+    --theme-text-secondary: #8CA0BA;
+    --theme-ornament: #1C2541;
+    --theme-shadow: rgba(0, 0, 0, 0.4);
+}
+
+.poster-page.sage {
+    --theme-bg: #F4F6F0; /* Soft warm grey/white */
+    --theme-border: #D1D6C7;
+    --theme-accent: #606C38; /* Olive/Sage Green */
+    --theme-accent-rgb: 96, 108, 56;
+    --theme-text-primary: #283618; /* Dark green-black */
+    --theme-text-secondary: #5C6752;
+    --theme-ornament: #E2E7D7;
+    --theme-shadow: rgba(0, 0, 0, 0.03);
+}
+
+.poster-page.royal {
+    --theme-bg: #1A1A1A; /* Solid charcoal black */
+    --theme-border: rgba(212, 175, 55, 0.2);
+    --theme-accent: #D4AF37; /* Royal gold */
+    --theme-accent-rgb: 212, 175, 55;
+    --theme-text-primary: #F5F5F5;
+    --theme-text-secondary: #A6A6A6;
+    --theme-ornament: #262626;
+    --theme-shadow: rgba(0, 0, 0, 0.5);
+}
+
+/* ==========================================================================
+   RESET & LAYOUT
+   ========================================================================== */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: #0f172a;
+    color: #f8fafc;
+    min-height: 100vh;
+    display: flex;
+    overflow: hidden;
+}
+
+/* ==========================================================================
+   CONTROL PANEL (SIDEBAR)
+   ========================================================================== */
+.control-panel {
+    width: var(--panel-width);
+    background-color: var(--ui-bg);
+    border-right: 1px solid var(--ui-border);
+    display: flex;
+    flex-direction: column;
+    z-index: 10;
+    box-shadow: 10px 0 30px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+}
+
+.panel-header {
+    padding: 24px;
+    border-bottom: 1px solid var(--ui-border);
+}
+
+.panel-header h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 4px;
+    letter-spacing: -0.025em;
+}
+
+.panel-header p {
+    font-size: 0.875rem;
+    color: var(--ui-text-muted);
+}
+
+.panel-content {
+    flex: 1;
+    overflow-y: auto;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+}
+
+/* Custom Scrollbar for Panel */
+.panel-content::-webkit-scrollbar {
+    width: 6px;
+}
+.panel-content::-webkit-scrollbar-track {
+    background: transparent;
+}
+.panel-content::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 3px;
+}
+.panel-content::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.25);
+}
+
+.panel-section {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.panel-section h3 {
+    font-size: 0.875rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--ui-accent);
+    margin-bottom: 4px;
+}
+
+.section-header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Forms & Inputs */
+.input-group {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.input-group label {
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: var(--ui-text);
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+}
+
+.input-group input[type="text"],
+.input-group textarea,
+.input-group select {
+    width: 100%;
+    background-color: var(--ui-input-bg);
+    border: 1px solid var(--ui-input-border);
+    border-radius: 6px;
+    padding: 10px 12px;
+    color: #fff;
+    font-family: inherit;
+    font-size: 0.9rem;
+    transition: all var(--transition-speed);
+}
+
+.input-group input[type="text"]:focus,
+.input-group textarea:focus,
+.input-group select:focus {
+    outline: none;
+    border-color: var(--ui-accent);
+    box-shadow: 0 0 0 2px rgba(56, 189, 248, 0.2);
+}
+
+/* Buttons */
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    font-family: inherit;
+    font-size: 0.9rem;
+    font-weight: 600;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 16px;
+    cursor: pointer;
+    transition: all var(--transition-speed);
+}
+
+.btn-primary {
+    background-color: var(--ui-accent);
+    color: #0f172a;
+}
+.btn-primary:hover {
+    background-color: var(--ui-accent-hover);
+    transform: translateY(-1px);
+}
+
+.btn-secondary {
+    background-color: rgba(255, 255, 255, 0.08);
+    color: #fff;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+.btn-secondary:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.btn-sm {
+    padding: 6px 12px;
+    font-size: 0.8rem;
+}
+
+.btn-block {
+    width: 100%;
+}
+
+.file-upload-btn {
+    display: block;
+    background-color: rgba(255, 255, 255, 0.05);
+    border: 1px dashed var(--ui-input-border);
+    border-radius: 6px;
+    padding: 12px;
+    text-align: center;
+    font-size: 0.85rem;
+    cursor: pointer;
+    color: var(--ui-text-muted);
+    transition: all var(--transition-speed);
+}
+
+.file-upload-btn:hover {
+    background-color: rgba(255, 255, 255, 0.08);
+    border-color: var(--ui-accent);
+    color: #fff;
+}
+
+.file-upload-btn input[type="file"] {
+    display: none;
+}
+
+/* Theme Selection Buttons */
+.theme-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.theme-btn {
+    background-color: var(--ui-input-bg);
+    border: 1px solid var(--ui-input-border);
+    border-radius: 8px;
+    padding: 12px;
+    color: var(--ui-text);
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 0.85rem;
+    font-weight: 500;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    transition: all var(--transition-speed);
+}
+
+.theme-btn:hover {
+    border-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.04);
+}
+
+.theme-btn.active {
+    border-color: var(--ui-accent);
+    background-color: rgba(56, 189, 248, 0.08);
+    color: #fff;
+}
+
+.color-preview {
+    width: 100%;
+    height: 16px;
+    border-radius: 4px;
+    display: block;
+}
+
+/* Dynamic Event Editor Rows */
+.events-editor-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.event-editor-row {
+    background-color: rgba(0, 0, 0, 0.25);
+    border: 1px solid var(--ui-border);
+    border-radius: 8px;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    position: relative;
+}
+
+.event-editor-row .row-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.event-editor-row .row-title {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--ui-text-muted);
+}
+
+.event-editor-row .btn-remove {
+    background: none;
+    border: none;
+    color: #ef4444;
+    cursor: pointer;
+    padding: 2px 6px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    border-radius: 4px;
+    transition: background var(--transition-speed);
+}
+
+.event-editor-row .btn-remove:hover {
+    background-color: rgba(239, 68, 68, 0.15);
+}
+
+.editor-grid-3 {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 8px;
+}
+
+/* Panel Footer */
+.panel-footer {
+    padding: 24px;
+    border-top: 1px solid var(--ui-border);
+    background-color: rgba(15, 23, 42, 0.4);
+}
+
+.print-note {
+    font-size: 0.7rem;
+    color: var(--ui-text-muted);
+    text-align: center;
+    margin-top: 10px;
+    line-height: 1.4;
+}
+
+/* ==========================================================================
+   PREVIEW CANVAS & INTERACTIVE AREA
+   ========================================================================== */
+.preview-area {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 40px;
+    overflow-y: auto;
+    position: relative;
+    background-color: #1e293b;
+    background-image: radial-gradient(circle at top left, #1e293b 0%, #0f172a 100%);
+}
+
+/* Zoom controls */
+.scale-bar {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: rgba(15, 23, 42, 0.85);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(8px);
+    border-radius: 30px;
+    padding: 6px 12px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    z-index: 100;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+.scale-bar button {
+    background: none;
+    border: none;
+    color: #fff;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 1rem;
+    transition: background var(--transition-speed);
+}
+
+.scale-bar button:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.scale-bar span {
+    font-size: 0.8rem;
+    font-weight: 600;
+    min-width: 40px;
+    text-align: center;
+}
+
+/* Wrap canvas to manage zooming scale transform */
+.poster-canvas-wrapper {
+    transform-origin: top center;
+    transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    box-shadow: 0 25px 60px -15px rgba(0, 0, 0, 0.6);
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+/* ==========================================================================
+   POSTER CANVAS STYLE (A3 PROPORTIONS)
+   ========================================================================== */
+.poster-page {
+    width: 297mm;
+    min-height: 420mm;
+    background-color: var(--theme-bg);
+    color: var(--theme-text-primary);
+    position: relative;
+    padding: 24mm 20mm;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: background-color var(--transition-speed), color var(--transition-speed);
+    overflow: hidden;
+    /* Prevent print margins overlapping */
+    box-sizing: border-box;
+}
+
+/* Decorative Framing Lines */
+.poster-border-frame {
+    position: absolute;
+    top: 10mm;
+    left: 10mm;
+    right: 10mm;
+    bottom: 10mm;
+    border: 1px solid var(--theme-border);
+    pointer-events: none;
+    transition: border-color var(--transition-speed);
+}
+
+.poster-border-frame::after {
+    content: '';
+    position: absolute;
+    top: 2mm;
+    left: 2mm;
+    right: 2mm;
+    bottom: 2mm;
+    border: 2px solid var(--theme-accent);
+    opacity: 0.85;
+    transition: border-color var(--transition-speed);
+}
+
+/* Corner Ornaments (SVG) */
+.ornament {
+    position: absolute;
+    width: 28mm;
+    height: 28mm;
+    color: var(--theme-accent);
+    opacity: 0.85;
+    pointer-events: none;
+    transition: color var(--transition-speed);
+}
+.ornament.top-left { top: 9mm; left: 9mm; }
+.ornament.top-right { top: 9mm; right: 9mm; }
+.ornament.bottom-left { bottom: 9mm; left: 9mm; }
+.ornament.bottom-right { bottom: 9mm; right: 9mm; }
+
+/* Inner Content Layout */
+.poster-inner {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+    position: relative;
+    z-index: 1;
+}
+
+/* ==========================================================================
+   POSTER HEADER
+   ========================================================================== */
+.poster-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 12mm;
+}
+
+.header-logo-area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5mm;
+    margin-bottom: 5mm;
+}
+
+.municipality-emblem {
+    color: var(--theme-accent);
+    transition: color var(--transition-speed);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.municipality-emblem img {
+    height: 60px;
+    object-fit: contain;
+}
+
+.header-gov-name {
+    font-size: 8pt;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    color: var(--theme-text-secondary);
+}
+
+.header-title-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.poster-year {
+    font-size: 14pt;
+    font-weight: 500;
+    letter-spacing: 0.3em;
+    color: var(--theme-accent);
+    margin-bottom: 1.5mm;
+    text-indent: 0.3em; /* Center offset fix */
+}
+
+.poster-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 32pt;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--theme-text-primary);
+    line-height: 1.1;
+    margin-bottom: 3.5mm;
+}
+
+/* Decorative Divider in Title */
+.title-separator {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3mm;
+    width: 60%;
+    margin-bottom: 4mm;
+    color: var(--theme-accent);
+}
+.title-separator .line {
+    height: 1px;
+    background-color: var(--theme-border);
+    flex: 1;
+}
+.title-separator .dot {
+    width: 3px;
+    height: 3px;
+    background-color: var(--theme-accent);
+    border-radius: 50%;
+}
+.title-separator .diamond {
+    width: 6px;
+    height: 6px;
+    border: 1px solid var(--theme-accent);
+    transform: rotate(45deg);
+    background-color: var(--theme-bg);
+}
+
+.poster-subtitle {
+    font-size: 11.5pt;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    color: var(--theme-text-secondary);
+    text-transform: uppercase;
+}
+
+/* ==========================================================================
+   POSTER EVENTS SCHEDULE (TIMELINE)
+   ========================================================================== */
+.poster-program {
+    display: flex;
+    flex-direction: column;
+    gap: 6.5mm; /* Spacious gap between rows */
+    margin-bottom: 10mm;
+    flex-grow: 1;
+    justify-content: center; /* Even spacing vertically */
+}
+
+.poster-event-item {
+    display: grid;
+    grid-template-columns: 26mm 1px 18mm 1fr;
+    align-items: center;
+    gap: 5mm;
+    position: relative;
+    padding-bottom: 2mm;
+}
+
+/* Horizontal border bottom divider for items, except last */
+.poster-event-item::after {
+    content: '';
+    position: absolute;
+    bottom: -3.25mm;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background-color: var(--theme-border);
+    opacity: 0.5;
+}
+.poster-event-item:last-child::after {
+    display: none;
+}
+
+/* Date Grid Box */
+.event-date-box {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    text-align: right;
+    padding-right: 1mm;
+}
+
+.date-month {
+    font-size: 7.5pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--theme-accent);
+}
+
+.date-day-number {
+    font-family: 'Playfair Display', serif;
+    font-size: 20pt;
+    font-weight: 700;
+    line-height: 1;
+    color: var(--theme-text-primary);
+    margin: 0.5mm 0;
+}
+
+.date-day-name {
+    font-size: 7pt;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--theme-text-secondary);
+}
+
+/* Divider Line */
+.event-vertical-line {
+    background-color: var(--theme-accent);
+    height: 14mm;
+    opacity: 0.6;
+}
+
+/* Time Badge */
+.event-time-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.time-badge {
+    background-color: rgba(var(--theme-accent-rgb), 0.08);
+    border: 1px solid rgba(var(--theme-accent-rgb), 0.25);
+    border-radius: 4px;
+    padding: 1.5mm 2.5mm;
+    font-size: 8.5pt;
+    font-weight: 600;
+    color: var(--theme-accent);
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+}
+
+/* Details Box (Title / Artists / Location) */
+.event-details-box {
+    display: flex;
+    flex-direction: column;
+    gap: 1mm;
+}
+
+.event-details-title-row {
+    display: flex;
+    align-items: baseline;
+    gap: 3mm;
+}
+
+.event-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 13.5pt;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    color: var(--theme-text-primary);
+    line-height: 1.25;
+}
+
+.event-artist {
+    font-size: 9pt;
+    font-style: italic;
+    color: var(--theme-text-secondary);
+    font-weight: 400;
+    margin-left: 1mm;
+}
+
+.event-venue {
+    font-size: 7.5pt;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    color: var(--theme-text-secondary);
+    text-transform: uppercase;
+}
+
+/* ==========================================================================
+   POSTER FOOTER
+   ========================================================================== */
+.poster-footer {
+    display: flex;
+    flex-direction: column;
+    gap: 5mm;
+}
+
+.footer-divider {
+    color: var(--theme-border);
+    margin-bottom: 2mm;
+}
+
+.footer-content {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr 1fr;
+    align-items: center;
+    gap: 6mm;
+}
+
+.footer-info h4 {
+    font-size: 7pt;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: var(--theme-accent);
+    margin-bottom: 1mm;
+}
+
+.footer-info p {
+    font-size: 6.5pt;
+    line-height: 1.4;
+    color: var(--theme-text-secondary);
+}
+
+.footer-slogan {
+    display: flex;
+    justify-content: center;
+}
+
+.slogan-badge {
+    border: 1px solid var(--theme-accent);
+    padding: 2mm 5mm;
+    font-size: 8.5pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: var(--theme-accent);
+    background-color: rgba(var(--theme-accent-rgb), 0.02);
+    text-indent: 0.16em;
+}
+
+.footer-links {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 2mm;
+}
+
+.qr-code-area {
+    color: var(--theme-text-primary);
+    opacity: 0.85;
+}
+
+.web-url {
+    font-size: 7.5pt;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--theme-text-secondary);
+}
+
+/* Patrons Section */
+.footer-patrons {
+    border-top: 1px solid var(--theme-border);
+    padding-top: 4mm;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8mm;
+}
+
+.patron-badge {
+    display: flex;
+    align-items: center;
+    gap: 2mm;
+    color: var(--theme-text-secondary);
+    opacity: 0.75;
+    transition: opacity var(--transition-speed);
+}
+.patron-badge:hover {
+    opacity: 1;
+}
+
+.patron-badge svg {
+    color: var(--theme-accent);
+}
+
+.patron-badge span {
+    font-size: 6.5pt;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+}
+
+/* ==========================================================================
+   PRINT STYLES (@media print)
+   ========================================================================== */
+@media print {
+    /* Hide scrollbars and elements outside poster */
+    html, body {
+        background-color: #ffffff !important;
+        color: #000000 !important;
+        overflow: visible !important;
+        height: auto !important;
+        width: 100% !important;
+        display: block !important;
+    }
+
+    .no-print {
+        display: none !important;
+    }
+
+    .preview-area {
+        padding: 0 !important;
+        background: none !important;
+        overflow: visible !important;
+        height: auto !important;
+        width: auto !important;
+        display: block !important;
+    }
+
+    .poster-canvas-wrapper {
+        transform: none !important;
+        margin: 0 !important;
+        box-shadow: none !important;
+        display: block !important;
+        width: 100% !important;
+        height: auto !important;
+    }
+
+    .poster-page {
+        /* Standard A3 measurements */
+        width: 297mm !important;
+        height: 420mm !important;
+        min-height: 420mm !important;
+        page-break-after: always;
+        page-break-inside: avoid;
+        margin: 0 !important;
+        padding: 24mm 20mm !important;
+        box-shadow: none !important;
+        background-color: var(--theme-bg) !important;
+        color: var(--theme-text-primary) !important;
+        border: none !important;
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+        box-sizing: border-box !important;
+    }
+
+    /* Set print page setups */
+    @page {
+        size: A3 portrait;
+        margin: 0;
+    }
+}
