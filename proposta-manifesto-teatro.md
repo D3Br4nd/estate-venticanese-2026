@@ -44,18 +44,19 @@ Ecco il programma dei **7 eventi teatrali** estratti ed organizzati in ordine cr
 - **Logo**: Placeholder geometrico (es. cerchio o scudo con dicitura fittizia "LOGO" o "STEMMA") per successivo inserimento.
 - **Info e Biglietti**: "Ingresso gratuito fino a esaurimento posti. Gli spettacoli inizieranno puntualmente agli orari indicati."
 
+## 3. Prompt di Generazione per Grafiche e Bozze (Stile Opera / Alta Risonanza)
+
+I seguenti prompt sono stati riscritti da zero per allinearsi alla comunicazione visiva dei più prestigiosi teatri lirici italiani (Teatro di San Carlo di Napoli, Teatro La Fenice di Venezia). Abbandonano lo stile popolare semplice per proporre un design ad **alto impatto, moderno, drammatico e d'élite**, mantenendo tutti i testi reali ed il placeholder del logo.
+
 ---
 
-## 3. Prompt di Generazione per Grafiche e Bozze (DALL-E 3 / Midjourney)
-
-Di seguito sono riportati i prompt pronti all'uso con l'integrazione di tutti i testi reali del festival e l'indicazione del logo placeholder.
-
-### Prompt A: Layout Completo Locandina con Programma Reale (DALL-E 3 / ChatGPT)
-*Questo prompt dice all'intelligenza artificiale di generare la locandina completa con tutti gli spettacoli, i giorni e gli orari reali, usando un placeholder per lo stemma.*
+### Prompt A: Il Manifesto Ufficiale (Stile "Drammatico & Prestigioso" - San Carlo)
+*Usa un contrasto profondo (chiaroscuro) con uno sfondo blu notte/antracite e scritte in oro e bianco puro, creando un'atmosfera serale di grande classe.*
 
 > **Prompt per DALL-E 3 / ChatGPT:**
-> *Crea una bozza grafica verticale formato locandina (100x70cm) per il festival teatrale "VENTICANO TEATRO FESTIVAL". Sfondo chiaro color crema/avorio. In alto a sinistra è presente un cerchio grigio chiaro con la scritta fittizia "LOGO" che funge da placeholder per lo stemma comunale. In alto al centro il titolo principale è scritto in modo molto chiaro ed elegante: "VENTICANO TEATRO FESTIVAL 2026". Sotto il titolo, c'è il sottotitolo: "Rassegna Teatrale in Cavea".
-> Al centro della locandina è presente un elenco verticale ordinato a colonna singola che riporta esattamente le seguenti righe di testo in un font sans-serif pulito e leggibile:
+> *Un poster culturale verticale ad altissimo impatto (100x70cm), nello stile editoriale contemporaneo del Teatro di San Carlo. Lo sfondo è un profondo blu notte quasi nero, con una texture di carta ruvida e lussuosa. In alto a sinistra è visibile una sagoma circolare minimale e pulita color oro opaco con la scritta "LOGO" (funge da placeholder istituzionale). In alto al centro, il titolo principale è scritto in lettere monumentali con un carattere serif elegante e slanciato: "VENTICANO TEATRO FESTIVAL". Sotto di esso, l'anno "2026" in lettere distanziate.
+> Al centro della composizione, una suggestiva illustrazione astratta e drammatica: un fascio di luce dorata (spotlight) taglia lo spazio buio in diagonale, illuminando la stilizzazione geometrica delle gradinate di una cavea teatrale e la sagoma eterea di un attore.
+> Sotto questa illustrazione, il programma del festival è disposto in modo estremamente pulito, ordinato e leggibile. Le date e i testi sono in caratteri bianchi e oro, disposti su singola colonna:
 > - "05 LUG | 21:00 - inVenticano (Contest Teatrale)"
 > - "18 LUG | 21:00 - Terroni si nasce (Paolo Caiazzo)"
 > - "06 AGO | 21:00 - Opera Lirica"
@@ -63,29 +64,41 @@ Di seguito sono riportati i prompt pronti all'uso con l'integrazione di tutti i 
 > - "22 AGO | 20:30 - Corto e a Capo (Cinema)"
 > - "02 SET | 20:30 - Teatro Amatoriale"
 > - "06 SET | 20:30 - La prova del N9ve (Casagrande)"
-> Lungo i lati, eleganti illustrazioni a tratto sottile (line-art) color terracotta e oro di rami d'ulivo, maschere teatrali classiche e la sagoma di un anfiteatro all'aperto (cavea). In basso, lo slogan "ViviAMO Venticano" racchiuso in una cornicetta, e la scritta "Ingresso gratuito - info: www.comune.venticano.av.it". Stile grafico raffinato, pulito, istituzionale ed editoriale.*
+> In fondo, il payoff "ViviAMO Venticano" scritto in piccolo in un carattere sans-serif minimale, e il testo "Ingresso gratuito - info su www.comune.venticano.av.it". Composizione regale, simmetrica, di altissimo livello artistico.*
 
 ---
 
-### Prompt B: Illustrazione di Sfondo Principale (Stile Poster Retro/Flat Art - Midjourney / DALL-E)
-*Ideale se si desidera generare solo l'illustrazione d'impatto centrale (ispirata alla Cavea e alle maschere) con il titolo del festival, lasciando uno spazio vuoto e pulito per inserire i testi degli eventi e il logo stemma con programmi di grafica.*
+### Prompt B: Manifesto Alternativo (Stile "Avanguardia Lirica" - La Fenice)
+*Una direzione visiva basata su sfondi chiari/avorio materico, con elementi grafici dorati, indaco e neri, che gioca su una composizione asimmetrica ad altissimo contenuto di design.*
 
-> **Prompt per DALL-E 3 / Midjourney (in Inglese per migliori risultati):**
-> *An elegant vertical design for "VENTICANO TEATRO FESTIVAL" written in large, clean serif typography at the top. Below the title, a beautiful flat vector illustration of an outdoor ancient Greek-Roman theater cavea under a starry summer twilight sky. Color palette: terracotta, deep blue indigo, warm gold, and light cream. The top left corner has a clean circular shape with a thin line border containing the word "LOGO PLACEHOLDER" inside. Below the illustration, there is a large, clean, blank cream-colored rectangular area in the center designed for adding a schedule list of events. Framed by delicate olive branch line drawings. High quality, editorial aesthetic, retro Italian travel poster style.*
+> **Prompt per DALL-E 3 / ChatGPT:**
+> *A prestigious vertical cultural poster (100x70cm) in the contemporary branding style of Teatro La Fenice. Light warm ivory textured background. The typography is modern and bold: the title "VENTICANO TEATRO FESTIVAL 2026" is aligned to the left, set in a sophisticated high-contrast serif font in deep navy blue. The top left corner features a simple geometric circle shield with the word "LOGO PLACEHOLDER" inside. 
+> The central artwork is an avant-garde, abstract representation of theater: organic flowing shapes in metallic gold and terracotta overlaying the clean vector lines of an open-air amphitheater (cavea) under a stylized golden sun.
+> Arranged on the right side, the schedule is presented with luxury editorial formatting:
+> - "05 LUG | 21:00 - inVenticano (Contest Teatrale)"
+> - "18 LUG | 21:00 - Terroni si nasce (Paolo Caiazzo)"
+> - "06 AGO | 21:00 - Opera Lirica"
+> - "09 AGO | 21:00 - Nu Bambiniello e tre San Giuseppe"
+> - "22 AGO | 20:30 - Corto e a Capo (Cinema)"
+> - "02 SET | 20:30 - Teatro Amatoriale"
+> - "06 SET | 20:30 - La prova del N9ve (Casagrande)"
+> In the bottom margin, the institutional slogan "ViviAMO Venticano" and the info "Ingresso gratuito - www.comune.venticano.av.it" are written in a tiny, clean, elegant sans-serif. Extremely sleek, minimalist, high-end Italian design.*
 
 ---
 
-### Prompt C: Grafica Social per Singolo Evento (Instagram/Facebook 4:5 - DALL-E 3)
-*Da usare per generare la base o i singoli post per promuovere gli spettacoli principali.*
+### Prompt C: Grafica Social per il Programma Completo (Instagram Feed 4:5 - DALL-E 3)
+*Questo prompt genera il post social principale per promuovere l'intero cartellone del festival con lo stesso stile prestigioso dei manifesti.*
 
 > **Prompt per DALL-E 3:**
-> *Crea un post Instagram (formato 4:5) dedicato al "VENTICANO TEATRO FESTIVAL". Sfondo color crema chiaro. In alto a sinistra c'è un piccolo cerchio con la scritta "LOGO" (placeholder). Il post pubblicizza un singolo evento speciale del festival. Al centro è presente l'illustrazione di una maschera teatrale classica stilizzata color terracotta. Il testo principale del post riporta esattamente: "PAOLO CAIAZZO in Terroni si nasce - Sabato 18 Luglio, Ore 21:00 - Cavea Teatrale di Venticano". In basso a destra è presente un codice QR placeholder e lo slogan "ViviAMO Venticano". Stile elegante, ordinato, con tipografia ad alto contrasto per la lettura da mobile.*
+> *Un post per Instagram (formato 4:5) ad alto impatto per il "VENTICANO TEATRO FESTIVAL". Sfondo blu notte materico con sfumature dorate e luci soffuse da palcoscenico (chiaroscuro drammatico). In alto a sinistra c'è un piccolo logo circolare minimale "LOGO" (placeholder). Il titolo in alto è in oro lucido: "VENTICANO TEATRO FESTIVAL 2026" in un carattere serif molto elegante. 
+> Al centro del post è impaginato in modo leggibile e pulito l'intero programma degli eventi in bianco brillante:
+> - "05 LUG - inVenticano (Contest Teatrale)"
+> - "18 LUG - Terroni si nasce (Paolo Caiazzo)"
+> - "06 AGO - Opera Lirica"
+> - "09 AGO - Nu Bambiniello e tre San Giuseppe"
+> - "22 AGO - Corto e a Capo (Cinema)"
+> - "02 SET - Teatro Amatoriale"
+> - "06 SET - La prova del N9ve (Casagrande)"
+> In basso al centro c'è lo slogan "ViviAMO Venticano" e a destra un codice QR stilizzato. L'immagine trasmette l'esclusività e la bellezza di un festival lirico/teatrale di rilievo internazionale.*
 
----
-
-### Prompt D: Elementi Grafici Isolati (Asset per Photoshop/Canva - DALL-E 3)
-*Per generare icone decorative da ritagliare ed usare come contorno.*
-
-> **Prompt per DALL-E 3:**
-> *Un set di icone grafiche isolate su sfondo bianco puro, stile vettoriale line-art sottile, color terracotta. Il set include: una maschera della tragedia greca, una maschera della commedia greca, un ramo d'ulivo con foglie, una corona d'alloro, un sole estivo stilizzato e la sagoma minimalista di gradinate di un teatro (cavea). Stile coordinato, elegante e raffinato, perfetto per decorazioni di manifesti culturali.*
 
