@@ -145,7 +145,8 @@ Questo documento contiene i testi strutturati per i caroselli social. Ogni slide
 * **Testo:**
   # Assicurati il tuo posto! 🎟️
   * 🎫 **Abbonamento VTF 2026** (tutti gli spettacoli a pag.): **€ 35,00** *(33€ + 2€ prev.)*
-  * 🎟️ **Paolo Caizzo / M. Casagrande / Spettacolo 26 Ago**: **€ 12,00** *(11€ + 1€ prev.)*
+  * 🎟️ **Paolo Caizzo / M. Casagrande**: **€ 12,00** *(11€ + 1€ prev.)*
+  * 🎟️ **Spettacolo del 26 Agosto** (in via di def.): **€ 10,00** *(9€ + 1€ prev.)*
   * 🎟️ **Gran Galà dell'Opera Lirica** (6 Ago): **€ 8,00** *(7€ + 1€ prev.)*
   * 🆓 *inVenticano, Nu Bambeniello, Corto e a Capo e Teatro Amatoriale sono ad ingresso gratuito.*
 

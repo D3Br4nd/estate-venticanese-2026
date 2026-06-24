@@ -149,7 +149,8 @@ Un'opuscolo di 8 pagine è la scelta migliore: permette di distribuire i 41 even
 * **Biglietti e Abbonamenti Teatro:**
   * **Abbonamento Venticano Teatro Festival** (tutti gli spettacoli a pagamento): € 33,00 + € 2,00 prev. = € 35,00
   * **Biglietto Singolo:**
-    * **Paolo Caizzo** (18 Luglio) / **Maurizio Casagrande** (6 Settembre) / **Spettacolo del 26 Agosto**: € 11,00 + € 1,00 prev. = € 12,00
+    * **Paolo Caizzo** (18 Luglio) / **Maurizio Casagrande** (6 Settembre): € 11,00 + € 1,00 prev. = € 12,00
+    * **Spettacolo del 26 Agosto** (in via di definizione): € 9,00 + € 1,00 prev. = € 10,00
     * **Gran Galà dell'Opera Lirica** (6 Agosto): € 7,00 + € 1,00 prev. = € 8,00
     * Gli altri eventi della rassegna sono a **ingresso gratuito**.
 * **Contatti Comune di Venticano:**
