@@ -59,6 +59,7 @@ Questo documento contiene i testi strutturati per i caroselli social. Ogni slide
   * **22 AGO** | Corto e a Capo (Cinema)
   * **23 AGO** | Caccia al Tesoro
   * **25 AGO** | Bimbi in Piazza
+  * **26 AGO** | Spettacolo Teatrale (da definire)
   * **28 AGO** | Sarabanda Venticanese
   * **29-30 AGO** | Sagra di Fine Estate
 
@@ -122,11 +123,13 @@ Questo documento contiene i testi strutturati per i caroselli social. Ogni slide
 * **Testo:**
   # AD AGOSTO IN CAVEA 🌌
   * **Giovedì 6 Agosto** | Ore 21:00
-    👉 **Gran Galà dell'Opera Lirica**. Le arie più famose della lirica sotto le stelle.
+    👉 **Gran Galà dell'Opera Lirica**. Le arie celebri sotto le stelle.
   * **Domenica 9 Agosto** | Ore 21:00
-    👉 **"Nu Bambeniello e tre San Giuseppe"**. Classica e divertentissima commedia napoletana con *Atlas APS*.
+    👉 **"Nu Bambeniello e tre San Giuseppe"**. Commedia napoletana con *Atlas APS*.
   * **Sabato 22 Agosto** | Ore 20:30
     👉 **Corto e a Capo**. Festival del Cinema Indipendente.
+  * **Mercoledì 26 Agosto** | Ore 21:00
+    👉 **Spettacolo Teatrale** (a pagamento - in via di definizione).
 
 ### Slide 4: Il Cartellone di Settembre
 * **Grafica:** Foto di Maurizio Casagrande in evidenza.
@@ -141,9 +144,10 @@ Questo documento contiene i testi strutturati per i caroselli social. Ogni slide
 * **Grafica:** Icona biglietto/tessera. Grafica chiara dei prezzi.
 * **Testo:**
   # Assicurati il tuo posto! 🎟️
-  * 🎫 **Abbonamento VTF 2026** (Tutti gli spettacoli): **€ [Prezzo]**
-  * 🎟️ **Biglietti Singoli** a partire da **€ [Prezzo]**
-  * 🎟️ *inVenticano, Corto e a Capo e Teatro Amatoriale sono ad ingresso gratuito.*
+  * 🎫 **Abbonamento VTF 2026** (tutti gli spettacoli a pag.): **€ 35,00** *(33€ + 2€ prev.)*
+  * 🎟️ **Paolo Caizzo / M. Casagrande / Spettacolo 26 Ago**: **€ 12,00** *(11€ + 1€ prev.)*
+  * 🎟️ **Gran Galà dell'Opera Lirica** (6 Ago): **€ 8,00** *(7€ + 1€ prev.)*
+  * 🆓 *inVenticano, Nu Bambeniello, Corto e a Capo e Teatro Amatoriale sono ad ingresso gratuito.*
 
 ### Slide 6: Dove Acquistare & Contatti
 * **Grafica:** QR Code, icone social e web. Loghi istituzionali in basso.

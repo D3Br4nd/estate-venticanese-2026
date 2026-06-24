@@ -58,12 +58,18 @@ Questo documento contiene la bozza dei testi strutturata per una brochure A5 di 
   ## Corto e a Capo – Festival del Cinema Indipendente
   La Cavea si trasforma in un cinema all'aperto per ospitare una tappa dello storico festival. Una serata dedicata alla proiezione di cortometraggi d'autore provenienti da tutto il mondo, con storie intense, originali e capaci di emozionare.
 
-* **EVENTO 6: Teatro del Territorio**
+* **EVENTO 6: Spettacolo Teatrale**
+  ### MERCOLEDÌ 26 AGOSTO – ORA 21:00
+  ## Spettacolo in via di definizione
+  *Spettacolo a pagamento*
+  Un nuovo entusiasmante appuntamento teatrale che andrà ad arricchire il nostro cartellone sotto le stelle. I dettagli sullo spettacolo e sulla compagnia ospite verranno comunicati a breve sui canali ufficiali.
+
+* **EVENTO 7: Teatro del Territorio**
   ### MERCOLEDÌ 2 SETTEMBRE – ORA 20:30
   ## Serata di Teatro Amatoriale
   Una serata dedicata alla passione per il teatro che nasce dal cuore della nostra comunità. I gruppi locali saliranno sul palco per regalare al pubblico una rappresentazione ricca di entusiasmo, dedizione e tradizioni popolari.
 
-* **EVENTO 7: Commedia Musicale**
+* **EVENTO 8: Commedia Musicale**
   ### DOMENICA 6 SETTEMBRE – ORA 20:30
   ## Maurizio Casagrande in "La Prova del Nove"
   *Produzione Italiaconcerti Group*
@@ -74,11 +80,11 @@ Questo documento contiene la bozza dei testi strutturata per una brochure A5 di 
 ### PAGINA 4: BIGLIETTERIA, INFO E CONTATTI
 
 * **Abbonamenti e Biglietti:**
-  * **Abbonamento VTF 2026 (7 Eventi):** € [Prezzo da inserire]
-  * **Biglietto Singolo Spettacolo:**
-    * Paolo Caizzo / Maurizio Casagrande: € [Prezzo da inserire]
-    * Opera Lirica / "Nu Bambeniello e tre San Giuseppe": € [Prezzo da inserire]
-    * inVenticano / Corto e a Capo / Teatro Amatoriale: Ingresso gratuito o € [Prezzo da inserire]
+  * **Abbonamento VTF 2026 (tutti gli spettacoli a pagamento):** € 33,00 + € 2,00 prev. = € 35,00
+  * **Biglietti Singoli:**
+    * **Paolo Caizzo** (18 Luglio) / **Maurizio Casagrande** (6 Settembre) / **Spettacolo del 26 Agosto**: € 11,00 + € 1,00 prev. = € 12,00
+    * **Gran Galà dell'Opera Lirica** (6 Agosto): € 7,00 + € 1,00 prev. = € 8,00
+    * **inVenticano** (5 Luglio) / **Nu Bambeniello e tre San Giuseppe** (9 Agosto) / **Teatro Amatoriale** (2 Settembre): Ingresso gratuito
 * **Dove e Come Acquistare:**
   * **Prevendita Online:** [Link o piattaforma es. Go2/CiaoTickets]
   * **Punti Vendita Locali:** [Es. Tabaccheria/Sede Forum/Botteghino]

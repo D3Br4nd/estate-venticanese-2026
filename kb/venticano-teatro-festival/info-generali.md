@@ -40,3 +40,16 @@ Data 18 luglio
 # Musica Lirica
 
 Data: 6 agosto
+
+
+# BIGLIETTI VENTICANO TEATRO FESTIVAL
+
+5 luglio no biglietto
+18 luglio 11+1prev. 12 euro
+6 agosto 7+1prev 8 euro
+9 agosto no biglietto 
+26 agosto 11+1prev 12 euro
+2 settembre no biglietto
+6 settembre 11+1prev 12 euro
+
+Abbonamento per tutti gli spettacoli a pagamento 33+2prev 35 euro

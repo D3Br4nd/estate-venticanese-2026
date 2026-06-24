@@ -96,6 +96,8 @@ Un'opuscolo di 8 pagine è la scelta migliore: permette di distribuire i 41 even
     **Caccia al Tesoro** – Tradizionale gioco a squadre organizzato dalla *Pro Loco Venticano*.
   * **Martedì 25** | Ore 10:30 – Piazza Monumento ai Caduti
     **Bimbi in Piazza** – Giochi e gonfiabili per bambini.
+  * **Mercoledì 26** | Ore 21:00 – Cavea Teatrale
+    **Spettacolo Teatrale** – *Spettacolo a pagamento (in via di definizione)*.
   * **Venerdì 28** | Ore 20:30 – Cavea Teatrale
     **Sarabanda Venticanese** – Divertente gioco-spettacolo musicale a premi curato dal *Forum delle Donne*.
   * **Sabato 29 & Domenica 30** | Ore 20:00 – Piazza Monumento ai Caduti
@@ -144,6 +146,12 @@ Un'opuscolo di 8 pagine è la scelta migliore: permette di distribuire i 41 even
 
 ### PAGINA 8: INFO UTILI, SOCIAL E CONTATTI
 
+* **Biglietti e Abbonamenti Teatro:**
+  * **Abbonamento Venticano Teatro Festival** (tutti gli spettacoli a pagamento): € 33,00 + € 2,00 prev. = € 35,00
+  * **Biglietto Singolo:**
+    * **Paolo Caizzo** (18 Luglio) / **Maurizio Casagrande** (6 Settembre) / **Spettacolo del 26 Agosto**: € 11,00 + € 1,00 prev. = € 12,00
+    * **Gran Galà dell'Opera Lirica** (6 Agosto): € 7,00 + € 1,00 prev. = € 8,00
+    * Gli altri eventi della rassegna sono a **ingresso gratuito**.
 * **Contatti Comune di Venticano:**
   * **Indirizzo:** Piazza Monumento ai Caduti, 1 – 83030 Venticano (AV)
   * **Sito Web:** [Link Sito Comune]
