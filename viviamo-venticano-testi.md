@@ -113,7 +113,7 @@ Un'opuscolo di 8 pagine è la scelta migliore: permette di distribuire i 41 even
   * **Martedì 1** | Ore 20:00 – Parco Scarano
     **Finali Torneo Calcio e Bocce** – Premiazioni delle sfide estive.
   * **Mercoledì 2** | Ore 20:30 – Cavea Teatrale
-    **Serata di Teatro Amatoriale** – Spettacolo con le compagnie locali.
+    **"Grisù Giuseppe e Maria"** – Commedia in due atti di Gianni Clementi, interpretata dalla *Compagnia Amatoriale "ATTORI IN CORSO"*. Regia di Paola Francesca Prestopino.
   * **Giovedì 3 & Venerdì 4** | Ore 20:00 – Piazza Mercato
     **Giornata della Gioventù** – Concerti, DJ set e stand gastronomici gestiti dal *Forum dei Giovani*.
   * **Sabato 5** | Ore 17:30 – Castello

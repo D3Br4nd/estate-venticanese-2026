@@ -68,7 +68,7 @@ Questo documento contiene i testi strutturati per i caroselli social. Ogni slide
 * **Testo:**
   # SETTEMBRE 🍇
   * **1 SET** | Finali Calcio/Bocce
-  * **2 SET** | Teatro Amatoriale
+  * **2 SET** | "Grisù Giuseppe e Maria" (Teatro Amatoriale)
   * **3-4 SET** | Giornata della Gioventù
   * **5 SET** | Festa Bambini + Scopone Scientifico
   * **6 SET** | Maurizio Casagrande
@@ -136,7 +136,7 @@ Questo documento contiene i testi strutturati per i caroselli social. Ogni slide
 * **Testo:**
   # A SETTEMBRE IN CAVEA 🍂
   * **Mercoledì 2 Settembre** | Ore 20:30
-    👉 **Teato Amatoriale**. Serata con le compagnie del territorio.
+    👉 **"Grisù Giuseppe e Maria"**. Commedia con la Compagnia Amatoriale "ATTORI IN CORSO".
   * **Domenica 6 Settembre** | Ore 20:30
     👉 **Maurizio Casagrande** in *"La Prova del Nove"*. Uno show musicale e teatrale travolgente, fresco e tutto da ridere con band dal vivo!
 
@@ -148,7 +148,7 @@ Questo documento contiene i testi strutturati per i caroselli social. Ogni slide
   * 🎟️ **Paolo Caizzo / M. Casagrande**: **€ 12,00** *(11€ + 1€ prev.)*
   * 🎟️ **Spettacolo del 26 Agosto** (in via di def.): **€ 10,00** *(9€ + 1€ prev.)*
   * 🎟️ **Gran Galà dell'Opera Lirica** (6 Ago): **€ 8,00** *(7€ + 1€ prev.)*
-  * 🆓 *inVenticano, Nu Bambeniello, Corto e a Capo e Teatro Amatoriale sono ad ingresso gratuito.*
+  * 🆓 *inVenticano, Nu Bambeniello, Corto e a Capo e "Grisù Giuseppe e Maria" sono ad ingresso gratuito.*
 
 ### Slide 6: Dove Acquistare & Contatti
 * **Grafica:** QR Code, icone social e web. Loghi istituzionali in basso.

@@ -66,8 +66,9 @@ Questo documento contiene la bozza dei testi strutturata per una brochure A5 di 
 
 * **EVENTO 7: Teatro del Territorio**
   ### MERCOLEDÌ 2 SETTEMBRE – ORA 20:30
-  ## Serata di Teatro Amatoriale
-  Una serata dedicata alla passione per il teatro che nasce dal cuore della nostra comunità. I gruppi locali saliranno sul palco per regalare al pubblico una rappresentazione ricca di entusiasmo, dedizione e tradizioni popolari.
+  ## "Grisù Giuseppe e Maria"
+  *Di Gianni Clementi – Compagnia Teatrale Amatoriale "ATTORI IN CORSO"*
+  Pozzuoli, 1956. Tra miseria, analfabetismo ed emigrazione verso il Belgio, la vita quotidiana di un parroco settentrionale, della sua perpetua impicciona, di due sorelle e di un farmacista dà vita a esilaranti vicende. Sullo sfondo si consuma la memoria storica della tragedia della miniera di Marcinelle, in un perfetto equilibrio tra commedia e riflessione. Regia di Paola Francesca Prestopino.
 
 * **EVENTO 8: Commedia Musicale**
   ### DOMENICA 6 SETTEMBRE – ORA 20:30
@@ -85,7 +86,7 @@ Questo documento contiene la bozza dei testi strutturata per una brochure A5 di 
     * **Paolo Caizzo** (18 Luglio) / **Maurizio Casagrande** (6 Settembre): € 11,00 + € 1,00 prev. = € 12,00
     * **Spettacolo del 26 Agosto** (in via di definizione): € 9,00 + € 1,00 prev. = € 10,00
     * **Gran Galà dell'Opera Lirica** (6 Agosto): € 7,00 + € 1,00 prev. = € 8,00
-    * **inVenticano** (5 Luglio) / **Nu Bambeniello e tre San Giuseppe** (9 Agosto) / **Teatro Amatoriale** (2 Settembre): Ingresso gratuito
+    * **inVenticano** (5 Luglio) / **Nu Bambeniello e tre San Giuseppe** (9 Agosto) / **"Grisù Giuseppe e Maria"** (2 Settembre): Ingresso gratuito
 * **Dove e Come Acquistare:**
   * **Prevendita Online:** [Link o piattaforma es. Go2/CiaoTickets]
   * **Punti Vendita Locali:** [Es. Tabaccheria/Sede Forum/Botteghino]
