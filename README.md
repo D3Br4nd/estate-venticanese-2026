@@ -63,6 +63,7 @@ Sintesi estratta da `Foglio1`:
 |---|---|---|---|---|---|---|
 | Dal 24/06 al 04/07 |  | Torneo Beach Volley | P.zza Verardo | 19.30 | Forum Giovani | NO |
 | 05/07/2026 | Domenica | Inventicano | Cavea | 10.00 | Comune | SI - Festival |
+| 07/07/2026 | Martedi | Presentazione del Festival | Aula Consiliare / Municipio | 19.00 | Comune | SI - Festival |
 | 10/07/2026 | Venerdi | Milano-Taranto | P.zza Monumento | 09.30 | Moto Club | SI |
 | 11/07/2026 | Sabato | Gita Acquapark | Isola Verde - Pontecagnano | 09.00 | Forum Giovani | NO |
 | 17/07/2026 | Venerdi | Festa Sant'Alessio | P.zza Santa Maria | 20.30 | Parrocchia | SI |
@@ -119,6 +120,7 @@ Eventi da valutare per la locandina/brochure teatrale o festival:
 | Data | Evento | Luogo | Ora | Note |
 |---|---|---|---|---|
 | 05/07/2026 | Inventicano | Cavea | 10.00 | Festival |
+| 07/07/2026 | Presentazione del Festival | Aula Consiliare / Municipio | 19.00 | Festival |
 | 18/07/2026 | Terroni si nasce - Paolo Caiazzo | Cavea | 21.00 | Festival |
 | 06/08/2026 | Opera Lirica | Cavea | 21.00 | Festival |
 | 09/08/2026 | Nu Bambiniello e tre San Giuseppe | Cavea | 21.00 | Festival |

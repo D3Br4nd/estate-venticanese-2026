@@ -1,12 +1,13 @@
 # Elenco eventi con grafica
 
-Totale eventi con grafica: 41.
+Totale eventi con grafica: 42.
 
 Sono esclusi gli eventi marcati `NO` nella colonna `GRAFICA` del file Excel.
 
 | Evento | Data | Orario | Luogo |
 |---|---|---|---|
 | inVenticano - Contest Teatrale | Domenica 5 luglio | 21.00 | Cavea Teatrale |
+| Presentazione del Festival | Martedi 7 luglio | 19.00 | Aula Consiliare / Municipio |
 | Sosta 39ª Milano Taranto - Rievocazione storica per moto d'epoca | Venerdi 10 luglio | 09.30 | Piazza Monumento ai Caduti |
 | Festa di Sant'Alessio - Musica e Stand Gastronomici | Venerdi 17 luglio | 20.30 | P.zza Santa Maria |
 | Paolo Caizzo in Terroni si nasce ed io lo nacqui... modestamente - Spettacolo di Teatro-Canzone | Sabato 18 luglio | 21.00 | Cavea Teatrale |

@@ -33,12 +33,17 @@ Questo documento contiene la bozza dei testi strutturata per una brochure A5 di 
   *A cura dell'Associazione Culturale Cicolocchio ETS*
   Una vera e propria maratona creativa: attori, registi e autori avranno solo 6 ore di tempo per scrivere, provare e mettere in scena corti teatrali originali a partire da un tema segreto svelato al mattino. Una serata dinamica e sorprendente all'insegna dell'improvvisazione e del talento puro.
 
-* **EVENTO 2: Spettacolo di Teatro-Canzone**
+* **EVENTO 2: Presentazione del Festival**
+  ### MARTEDÌ 7 LUGLIO – ORA 19:00
+  ## Presentazione Ufficiale della XXIX Edizione
+  L'incontro ufficiale di presentazione alla cittadinanza e alla stampa del programma del Venticano Teatro Festival 2026, con la partecipazione dell'Amministrazione Comunale, dei direttori artistici e delle associazioni partner.
+
+* **EVENTO 3: Spettacolo di Teatro-Canzone**
   ### SABATO 18 LUGLIO – ORA 21:00
   ## Paolo Caizzo in "Terroni si nasce ed io lo nacqui... modestamente"
   Il celebre attore e comico partenopeo porta sul palco della Cavea uno show esilarante che unisce comicità e musica. Un viaggio ironico e tagliente attraverso i cliché, le contraddizioni e l'incredibile bellezza del nostro Meridione, per ridere e riflettere insieme.
 
-* **EVENTO 3: Opera Lirica**
+* **EVENTO 4: Opera Lirica**
   ### GIOVEDÌ 6 AGOSTO – ORA 21:00
   ## Gran Galà dell'Opera Lirica
   Le melodie più celebri e amate della tradizione lirica risuoneranno nella notte di Venticano. Una serata di grande fascino con interpreti d'eccezione che faranno rivivere le arie immortali che hanno fatto la storia della musica mondiale.
@@ -47,30 +52,30 @@ Questo documento contiene la bozza dei testi strutturata per una brochure A5 di 
 
 ### PAGINA 3: IL PROGRAMMA (Metà Agosto – Settembre)
 
-* **EVENTO 4: Commedia Teatrale**
+* **EVENTO 5: Commedia Teatrale**
   ### DOMENICA 9 AGOSTO – ORA 21:00
   ## "Nu Bambeniello e tre San Giuseppe"
   *Di Gaetano Di Maio e Nino Masiello – Compagnia ATLAS APS*
   In un tranquillo paese della provincia campana, il sogno del cinema e un ritorno inaspettato scatenano equivoci a catena, bugie e pettegolezzi. Una commedia classica e travolgente, dove il calore della famiglia riuscirà a rimettere ordine nel caos più totale.
 
-* **EVENTO 5: Cinema Sotto le Stelle**
+* **EVENTO 6: Cinema Sotto le Stelle**
   ### SABATO 22 AGOSTO – ORA 20:30
   ## Corto e a Capo – Festival del Cinema Indipendente
   La Cavea si trasforma in un cinema all'aperto per ospitare una tappa dello storico festival. Una serata dedicata alla proiezione di cortometraggi d'autore provenienti da tutto il mondo, con storie intense, originali e capaci di emozionare.
 
-* **EVENTO 6: Spettacolo Teatrale**
+* **EVENTO 7: Spettacolo Teatrale**
   ### MERCOLEDÌ 26 AGOSTO – ORA 21:00
   ## Spettacolo in via di definizione
   *Spettacolo a pagamento*
   Un nuovo entusiasmante appuntamento teatrale che andrà ad arricchire il nostro cartellone sotto le stelle. I dettagli sullo spettacolo e sulla compagnia ospite verranno comunicati a breve sui canali ufficiali.
 
-* **EVENTO 7: Teatro del Territorio**
+* **EVENTO 8: Teatro del Territorio**
   ### MERCOLEDÌ 2 SETTEMBRE – ORA 20:30
   ## "Grisù Giuseppe e Maria"
   *Di Gianni Clementi – Compagnia Teatrale Amatoriale "ATTORI IN CORSO"*
   Pozzuoli, 1956. Tra miseria, analfabetismo ed emigrazione verso il Belgio, la vita quotidiana di un parroco settentrionale, della sua perpetua impicciona, di due sorelle e di un farmacista dà vita a esilaranti vicende. Sullo sfondo si consuma la memoria storica della tragedia della miniera di Marcinelle, in un perfetto equilibrio tra commedia e riflessione. Regia di Paola Francesca Prestopino.
 
-* **EVENTO 8: Commedia Musicale**
+* **EVENTO 9: Commedia Musicale**
   ### DOMENICA 6 SETTEMBRE – ORA 20:30
   ## Maurizio Casagrande in "La Prova del Nove"
   *Produzione Italiaconcerti Group*
@@ -86,7 +91,7 @@ Questo documento contiene la bozza dei testi strutturata per una brochure A5 di 
     * **Paolo Caizzo** (18 Luglio) / **Maurizio Casagrande** (6 Settembre): € 11,00 + € 1,00 prev. = € 12,00
     * **Spettacolo del 26 Agosto** (in via di definizione): € 9,00 + € 1,00 prev. = € 10,00
     * **Gran Galà dell'Opera Lirica** (6 Agosto): € 7,00 + € 1,00 prev. = € 8,00
-    * **inVenticano** (5 Luglio) / **Nu Bambeniello e tre San Giuseppe** (9 Agosto) / **"Grisù Giuseppe e Maria"** (2 Settembre): Ingresso gratuito
+    * **inVenticano** (5 Luglio) / **Presentazione del Festival** (7 Luglio) / **Nu Bambeniello e tre San Giuseppe** (9 Agosto) / **"Grisù Giuseppe e Maria"** (2 Settembre): Ingresso gratuito
 * **Dove e Come Acquistare:**
   * **Prevendita Online:** [Link o piattaforma es. Go2/CiaoTickets]
   * **Punti Vendita Locali:** [Es. Tabaccheria/Sede Forum/Botteghino]

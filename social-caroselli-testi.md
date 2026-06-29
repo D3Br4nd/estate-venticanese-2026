@@ -33,6 +33,7 @@ Questo documento contiene i testi strutturati per i caroselli social. Ogni slide
 * **Testo:**
   # LUGLIO 🗓️
   * **5 LUG** | inVenticano (Contest Teatrale)
+  * **7 LUG** | Presentazione del Festival
   * **10 LUG** | Milano Taranto (Moto d'epoca)
   * **17 LUG** | Festa di Sant'Alessio
   * **18 LUG** | Paolo Caizzo (Teatro-Canzone)
@@ -115,6 +116,8 @@ Questo documento contiene i testi strutturati per i caroselli social. Ogni slide
   # A LUGLIO IN CAVEA 🗓️
   * **Domenica 5 Luglio** | Ore 21:00
     👉 **inVenticano** – Contest di corti teatrali estemporanei. Scrittura e messa in scena in sole 6 ore!
+  * **Martedì 7 Luglio** | Ore 19:00
+    👉 **Presentazione del Festival** – Presentazione ufficiale del cartellone e delle novità del VTF 2026.
   * **Sabato 18 Luglio** | Ore 21:00
     👉 **Paolo Caizzo** in *"Terroni si nasce ed io lo nacqui... modestamente"*. La grande comicità napoletana unita alla musica.
 

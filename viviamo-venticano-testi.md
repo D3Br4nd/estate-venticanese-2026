@@ -44,6 +44,8 @@ Un'opuscolo di 8 pagine è la scelta migliore: permette di distribuire i 41 even
   * **Domenica 5** | Ore 21:00 – Cavea Teatrale
     **inVenticano – Contest Teatrale** *(a cura di Cicolocchio ETS)*
     Una maratona di scrittura ed improvvisazione teatrale in cui le compagnie creano e mettono in scena corti teatrali originali in sole 6 ore.
+  * **Martedì 7** | Ore 19:00 – Aula Consiliare / Municipio
+    **Presentazione del Festival** – Conferenza stampa e presentazione ufficiale del cartellone del Venticano Teatro Festival 2026.
   * **Venerdì 10** | Ore 09:30 – Piazza Monumento ai Caduti
     **Sosta 39ª Milano Taranto** – Rievocazione storica per moto d'epoca.
   * **Venerdì 17** | Ore 20:30 – Piazza Santa Maria
